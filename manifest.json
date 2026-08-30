@@ -1,6 +1,0 @@
-{
-  "model": "sentence-transformers/all-MiniLM-L6-v2",
-  "n_chunks": 112,
-  "embedding_dim": 384,
-  "chunks_file_hash": "37e34239a0cd6a6e"
-}
